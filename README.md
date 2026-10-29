@@ -218,7 +218,7 @@ When all patients are resolved (healed or passed out) or the 20-minute game time
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/savvyngn/not-on-my-watch-v11.git
+   git clone https://github.com/lhchi04/not-on-my-watch.git
    ```
 
 2. Open **Unity Hub**, click **Add** (or **Add project from disk**), and select the cloned folder.
